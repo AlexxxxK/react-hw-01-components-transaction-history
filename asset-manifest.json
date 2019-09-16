@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-hw-01-components-transaction-history/static/css/main.5f790e67.chunk.css",
+    "main.js": "/react-hw-01-components-transaction-history/static/js/main.efec18c1.chunk.js",
+    "main.js.map": "/react-hw-01-components-transaction-history/static/js/main.efec18c1.chunk.js.map",
+    "runtime~main.js": "/react-hw-01-components-transaction-history/static/js/runtime~main.c2c18fcc.js",
+    "runtime~main.js.map": "/react-hw-01-components-transaction-history/static/js/runtime~main.c2c18fcc.js.map",
+    "static/js/2.cb4678ed.chunk.js": "/react-hw-01-components-transaction-history/static/js/2.cb4678ed.chunk.js",
+    "static/js/2.cb4678ed.chunk.js.map": "/react-hw-01-components-transaction-history/static/js/2.cb4678ed.chunk.js.map",
+    "index.html": "/react-hw-01-components-transaction-history/index.html",
+    "precache-manifest.3c598ca04d57da397d1cdd76dc083c4d.js": "/react-hw-01-components-transaction-history/precache-manifest.3c598ca04d57da397d1cdd76dc083c4d.js",
+    "service-worker.js": "/react-hw-01-components-transaction-history/service-worker.js",
+    "static/css/main.5f790e67.chunk.css.map": "/react-hw-01-components-transaction-history/static/css/main.5f790e67.chunk.css.map"
+  }
+}
